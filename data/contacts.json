@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Danny Willford",
+        "email": "dannyfo@gmail.com",
+        "subject": "Website Help",
+        "message": "Hi there, I'd like to hire you to help me build my website.  Thanks, Danny"
+    },
+    {
+        "name": "Danny Phone",
+        "email": "danny@dannycod.es",
+        "subject": "im on my phone",
+        "message": "this app is awesome!"
+    },
+    {
+        "name": "Tallyn Turnbow",
+        "email": "sonic.boom.4@gmail.com",
+        "subject": "This is an awesome subject",
+        "message": "This is a test message."
+    },
+    {
+        "name": "Charrmander",
+        "email": "cuteg@mail.bradley.edu",
+        "subject": "Testing!",
+        "message": "Oh hi"
+    },
+    {
+        "name": "James Anderson",
+        "email": "ja@ja.com",
+        "subject": "Testing",
+        "message": "Testing after file permission change to see if data still gets submitted even though users can't view the json file."
+    },
+    {
+        "name": "Danny",
+        "email": "dasdfasfafq@jga.com",
+        "subject": "asdasd",
+        "message": "sfasdf"
+    }
+]
